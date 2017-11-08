@@ -5,10 +5,10 @@ body {
 }
 
 .sky {
-  background-image: image("./resources/images/the-flatiron-building.jpg");
+  background-image: url("./resources/images/the-flatiron-building.jpg");
 }
 .newyork h3 {
-  background-image: image("./resources/images/the-flatiron-building.jpg");
+  background-image: url("./resources/images/the-flatiron-building.jpg");
   color: white;
 
 }
